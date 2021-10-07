@@ -12,7 +12,7 @@
   <body>
     <nav class="navbar navbar-dark bg-dark">
       <div class="container">
-        <h1 class="navbar-brand">BIENVENIDOS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SERVICIOSKYR.ONLINE - VIGILANCIA 24/7</h1>
+        <h1 class="navbar-brand">BIENVENIDOS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SERVICIOSKYR.ONLINE - VIGILANCIA 24/7</h1>
         <a class="navbar-brand" href="index.php">REGISTRAR CLEINTE </a>
         <a class="navbar-brand" href="servicios.php">REGISTRAR SERVICIO </a>
       </div/>
